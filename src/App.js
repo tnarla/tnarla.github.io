@@ -1,12 +1,15 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
-import { WaveBG } from "./svgs/bg";
+import Banner from "./components/Banner";
+import { WaveFooter } from "./svgs/bg";
 
 function App() {
   return (
     <div className="App">
-      <WaveBG />
+      <Banner />
+      <div className="footer">
+        <WaveFooter />
+      </div>
     </div>
   );
 }

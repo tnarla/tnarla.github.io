@@ -1,0 +1,70 @@
+.banner-container .navbar-container {
+  height: 64px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 80px;
+  color: white;
+}
+.banner-container .banner-bg {
+  position: absolute;
+  z-index: -5;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: rgb(39, 48, 54);
+  height: 400px;
+}
+
+.banner-container svg {
+  position: absolute;
+  z-index: -5;
+  padding-top: 399px;
+}
+
+.banner-container .intro-content {
+  position: relative;
+  font-size: 24px;
+  color: whitesmoke;
+  font-family: "Comfortaa", sans-serif;
+  padding: 80px;
+}
+
+.banner-container .intro-content .title {
+  position: relative;
+  font-size: 50px;
+  color: #00cba9;
+  font-weight: bold;
+}
+
+.banner-container .intro-content .title span.emoji-wave {
+  animation-name: wave-animation;
+  animation-duration: 2.5s;
+  animation-iteration-count: infinite;
+  transform-origin: 70% 70%;
+  display: inline-block;
+}
+
+@keyframes wave-animation {
+  0% {
+    transform: rotate(0deg);
+  }
+  10% {
+    transform: rotate(-10deg);
+  }
+  20% {
+    transform: rotate(12deg);
+  }
+  30% {
+    transform: rotate(-10deg);
+  }
+  40% {
+    transform: rotate(9deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
