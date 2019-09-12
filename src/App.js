@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App">
       <Banner />
+      <div className="blank"></div>
       <div className="footer">
         <WaveFooter />
       </div>

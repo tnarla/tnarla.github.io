@@ -3,7 +3,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 80px;
+  padding: 0 160px;
   color: white;
 }
 .banner-container .banner-bg {
@@ -27,7 +27,8 @@
   font-size: 24px;
   color: whitesmoke;
   font-family: "Comfortaa", sans-serif;
-  padding: 80px;
+  padding: 160px;
+  line-height: 1.5em;
 }
 
 .banner-container .intro-content .title {
@@ -35,6 +36,7 @@
   font-size: 50px;
   color: #00cba9;
   font-weight: bold;
+  margin-bottom: 12px;
 }
 
 .banner-container .intro-content .title span.emoji-wave {

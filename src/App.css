@@ -4,10 +4,13 @@
 .App .footer {
   bottom: 0;
   width: 100%;
-  position: absolute;
   vertical-align: top;
 }
 
 .App .footer svg {
   display: block;
+}
+
+.App .blank {
+  height: 1000px;
 }
