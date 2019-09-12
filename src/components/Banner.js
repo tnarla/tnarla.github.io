@@ -18,7 +18,7 @@ export default class Banner extends Component {
             </span>
           </div>
           My name is Tru. I'm a developer / designer based in SF. <br />
-          Currently @ r2c and previously @ Double Fine Productions & Uber.
+          Currently @ r2c and previously @ Doubl Fine Productions & Uber.
         </div>
         <div className="banner-bg">
           <WaveBG />
