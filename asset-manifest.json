@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trunarla/static/css/main.8c509593.chunk.css",
+    "main.js": "/trunarla/static/js/main.91068eff.chunk.js",
+    "main.js.map": "/trunarla/static/js/main.91068eff.chunk.js.map",
+    "runtime~main.js": "/trunarla/static/js/runtime~main.0af86ecf.js",
+    "runtime~main.js.map": "/trunarla/static/js/runtime~main.0af86ecf.js.map",
+    "static/js/2.4d97f0e1.chunk.js": "/trunarla/static/js/2.4d97f0e1.chunk.js",
+    "static/js/2.4d97f0e1.chunk.js.map": "/trunarla/static/js/2.4d97f0e1.chunk.js.map",
+    "index.html": "/trunarla/index.html",
+    "precache-manifest.c3068082910cd9b69ea6a1c5fdf010de.js": "/trunarla/precache-manifest.c3068082910cd9b69ea6a1c5fdf010de.js",
+    "service-worker.js": "/trunarla/service-worker.js",
+    "static/css/main.8c509593.chunk.css.map": "/trunarla/static/css/main.8c509593.chunk.css.map"
+  }
+}
